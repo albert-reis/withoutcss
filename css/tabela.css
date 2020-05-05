@@ -1,0 +1,121 @@
+table, th, td {
+    background-color: white;
+    border: 1px solid white;
+    border-collapse: separate;
+ 
+}
+
+th{
+    width: 260px;
+
+}
+
+
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+
+.border-top-Basic{
+    border-top: 2px solid rgba(9, 134, 9, 0.568);
+    
+}
+
+.border-top-Standard{
+    border-top: 2px solid rgba(39, 4, 165, 0.582);
+}
+.border-top-Premium{
+    border-top: 2px solid rgba(12, 98, 209, 0.692);
+}
+
+.txt-Basic{
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: bolder;
+    color:  rgba(9, 134, 9, 0.568);
+
+}
+
+.txt-Standard{
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: bolder;
+    color: rgba(39, 4, 165, 0.582);
+}
+.txt-Premium{
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: bolder;
+    color: rgba(12, 98, 209, 0.692); 
+}
+
+.td-Basic{
+    background-color: rgba(9, 134, 9, 0.568);
+}
+.td-Standard{
+    background-color: rgba(39, 4, 165, 0.582);
+}
+.td-Premium{
+    background-color: rgba(12, 98, 209, 0.692);
+}
+
+.span-price{
+    color: white;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 25px;
+}
+
+.span-descri{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(153, 153, 153);
+    
+}
+
+.border-bottom-Basic{
+    border-bottom: 2px solid rgba(9, 134, 9, 0.568);
+
+}
+.border-bottom-Standard{
+    border-bottom: 2px solid rgba(39, 4, 165, 0.582);
+
+}
+.border-bottom-Premium{
+    border-bottom: 2px solid rgba(12, 98, 209, 0.692);
+}
+
+.button-Basic{
+    font-weight: bolder;
+    border-radius: 5px;
+    color: rgb(59, 243, 59);
+    border: 2px solid rgba(59, 243, 59, 0.596);
+    height: 35px;
+    width: 100px;
+}
+.button-Standard{
+    font-weight: bolder;
+    border-radius: 5px;
+    color: rgba(39, 4, 165, 0.582);
+    border: 2px solid rgba(39, 4, 165, 0.582);
+    height: 35px;
+    width: 100px;
+
+}
+.button-Premium{
+    font-weight: bolder;
+    border-radius: 5px;
+    color: rgba(12, 98, 209, 0.692);
+    border: 2px solid rgba(12, 98, 209, 0.692);
+    height: 35px;
+    width: 100px;
+    
+
+}
+
+
